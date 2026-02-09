@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d1v1n-commed1a&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/d1v1n-commed1a"
+  width="600"
+  height="300"
+/>
+</a>
 
-**d1v1n-commed1a/d1v1n-commed1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **d1v1n-commed1a/d1v1n-commed1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
